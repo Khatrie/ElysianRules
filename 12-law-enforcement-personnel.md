@@ -2,9 +2,7 @@
 
 ### 12.01 <a href="#qzekq72hbhv2" id="qzekq72hbhv2"></a>
 
-You may not rob any form for law enforcement personnel that are on-duty, unless you are holding them hostage, in that scenario then you are to refer to policy
-
-10.03, taking any equipment aside from that will not be tolerated, this includes but is not limited to theft of police issued weapons and firearms, in order to do this the specific officer has to be full undercover without any form for identifier, or off-duty. Vehicles may be taken with a strong story line associated to them. If you do not have a reason you are stealing the vehicle don't do it.
+You may not rob any form for law enforcement personnel that are on-duty, unless you are holding them hostage, in that scenario then you are to refer to policy. Taking any equipment aside from that will not be tolerated, this includes but is not limited to theft of police issued weapons and firearms, in order to do this the specific officer has to be full undercover without any form for identifier, or off-duty. Vehicles may be taken with a strong story line associated to them. If you do not have a reason you are stealing the vehicle don't do it.
 
 ### 12.02 <a href="#e3p7d5jgackl" id="e3p7d5jgackl"></a>
 
