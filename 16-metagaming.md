@@ -15,3 +15,14 @@ You are not to use third party communication software such as Discord, TeamSpeak
 ### 16.04 <a href="#a0lufkre5uvs" id="a0lufkre5uvs"></a>
 
 Refrain from using communication within a vehicle as a legitimate reason to engage a specific interaction or scenario with someone as they may be whispering, and the windows of the vehicle may be closed, meaning you should not be able to hear what they are communicating, therefore refrain from using it.
+
+### 16.05
+
+Within any Job Discord you are not allowed to use information from one of your characters on another.
+
+**Examples:**
+
+* If you are a **Police Officer**, you cannot reference or use information your **Gang Character** knows.
+* If you play a **Real Estate Agent**, you cannot take information and use it while on your **EMS Character**.
+
+Each character is their own unique person with separate memories, relationships, and story-lines. Refer to [Rule 38](https://elysiancityrp.gitbook.io/elysian-city-rules/~/revisions/AJwg9rrxSx3txnJ0KahK/38-cousins-uncles-sister-relatives)

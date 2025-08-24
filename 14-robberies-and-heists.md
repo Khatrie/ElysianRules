@@ -2,13 +2,17 @@
 
 ### 14.01 <a href="#yaox8t8sa0oc" id="yaox8t8sa0oc"></a>
 
-Upon carrying out the heist or robbery of a specific location you are to refrain from carrying out any further robberies in that specific area. Furthermore, depending on which heist or robbery that has been carried out there may be a certain cooldown timer before any further robberies can be carried out in-general by anyone that is considered involved
+Upon carrying out the heist or robbery of a specific location you are to refrain from carrying out any further robberies in that specific area. Furthermore, depending on which heist or robbery that has been carried out there may be a certain cooldown timer before any further robberies can be carried out in-general by anyone that is considered involved. \
+\
+Store robberies are grouped as a whole and are not considered individual. This is to provide opportunity for everybody to have a chance to experience them. \
+\
+Example: If you rob a store at Postal 120 you cannot hit another Convenience/Liquor store for 30 Minutes.&#x20;
 
 | Pacific Standard Bank : \[5H]        | Blaine County Depository : \[4H] |
 | ------------------------------------ | -------------------------------- |
 | Regular Banks : \[3H]                | Jewelry Store : \[2H]            |
 | Bank Trucks : \[2H]                  | Art Heist : \[1H]                |
-| Houses : \[NONE] -3 Houses per night | Stores : \[45M]                  |
+| Houses : \[NONE] -3 Houses per night | Stores : \[30M]                  |
 
 ### 14.02 <a href="#xztb718m32ng" id="xztb718m32ng"></a>
 
@@ -30,7 +34,7 @@ Upon the conclusion of a server restart aka a tsunami, you are to wait a total o
 
 ### 14.05 <a href="#vrooh0255oep" id="vrooh0255oep"></a>
 
-Upon being downed in a heist, or the events following in a pursuit afterwards, you are not permitted to rejoin that specific scenario and interaction, same goes for members of law enforcement agencies, upon being downed to the point where treatment is required by the Emergency Medical Service, you are forbidden to rejoin that specific scenario, and what comes afterwards.
+Upon being downed in a heist (Flat Back), or the events following in a pursuit afterwards, you are not permitted to rejoin that specific scenario and interaction, same goes for members of law enforcement agencies, upon being downed to the point where treatment is required by the Emergency Medical Service, you are forbidden to rejoin that specific scenario, and what comes afterwards.
 
 ### 14.06 <a href="#uizu0agkiupv" id="uizu0agkiupv"></a>
 
@@ -40,9 +44,9 @@ If you are to rob a specific location, against a player, or to carry out a heist
 
 When carrying out criminal activity that involves hostages, there is a specific limit for the number of hostages that can be involved to ensure the scenario and interaction is reasonable, and fair for both parties involved, meaning both criminal and law enforcement, furthermore the limitations are as follows
 
-| Eight individuals : \[6] | Six individuals : \[5] | Four individuals : \[4] |
+| Eight individuals : \[5] | Six individuals : \[4] | Four individuals : \[3] |
 | ------------------------ | ---------------------- | ----------------------- |
-| Three individuals : \[3] | Two individuals : \[2] | One individual : \[1]   |
+| Three individuals : \[2] | Two individuals : \[1] | One individual : \[1]   |
 
 ### 14.08 <a href="#ufb2yfaumub" id="ufb2yfaumub"></a>
 
